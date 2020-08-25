@@ -1,0 +1,25 @@
+{
+  "name": "arrayindexoverflow",
+  "version": "1.0.0",
+  "description": "Reset the index in case of overflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/widevel/arrayindexoverflow.git"
+  },
+  "keywords": [
+    "array",
+    "overflow",
+    "index",
+    "reset"
+  ],
+  "author": "Marco iosif Constantinescu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/widevel/arrayindexoverflow/issues"
+  },
+  "homepage": "https://github.com/widevel/arrayindexoverflow#readme"
+}
