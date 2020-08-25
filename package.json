@@ -1,6 +1,6 @@
 {
   "name": "arrayindexoverflow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reset the index in case of overflow",
   "main": "index.js",
   "scripts": {
